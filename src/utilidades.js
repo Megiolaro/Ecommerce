@@ -1,6 +1,6 @@
 export const catalogo = [
     {
-        id: 1,
+        id: "1",
         nome: "Camisa Larga com Bolsos",
         marca: "Zara",
         preco: 70,
@@ -8,7 +8,7 @@ export const catalogo = [
         feminino: false
     },
     {
-        id: 2,
+        id: "2",
         nome: "Casaco Reto com Lã",
         marca: "Zara",
         preco: 85,
@@ -16,7 +16,7 @@ export const catalogo = [
         feminino: true
     },
     {
-        id: 3,
+        id: "3",
         nome: "Jaqueta com Efeito Camurça",
         marca: "Zara",
         preco: 60,
@@ -24,7 +24,7 @@ export const catalogo = [
         feminino: false
     },
     {
-        id: 4,
+        id: "4",
         nome: "Sobretudo em Mescla de Lã",
         marca: "Zara",
         preco: 160,
@@ -32,7 +32,7 @@ export const catalogo = [
         feminino: false
     },
     {
-        id: 5,
+        id: "5",
         nome: "Camisa Larga Acolchoada de Veludo Cotelê",
         marca: "Zara",
         preco: 110,
@@ -40,7 +40,7 @@ export const catalogo = [
         feminino: false
     },
     {
-        id: 6,
+        id: "6",
         nome: "Casaco de Lã com Botôes",
         marca: "Zara",
         preco: 170,
@@ -48,7 +48,7 @@ export const catalogo = [
         feminino: true
     },
     {
-        id: 7,
+        id: "7",
         nome: "Casaco com Botôes",
         marca: "Zara",
         preco: 75,
@@ -56,7 +56,7 @@ export const catalogo = [
         feminino: true
     },
     {
-        id: 8,
+        id: "8",
         nome: "Colete Comprido com Cinto",
         marca: "Zara",
         preco: 88,
